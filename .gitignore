@@ -1,0 +1,12 @@
+node_modules
+.settings
+.project
+.idea
+*.iml
+*.log
+*.min.js
+*.xcf
+/*.sh
+/*.lock
+
+/package-lock.json
